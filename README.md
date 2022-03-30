@@ -5,6 +5,7 @@ The MATLAB script np_dist_average.m quantifies 1. the average distance from lymp
 
 The MATLAB script np_colocalization.m quantified the nanoparticle intensity co-localized within the tumour lymphatic vessel as a function of distance. 
 
+To run, these files require: 1. Image file of segmented lymphatic vessels, and 2. Image file of nanoparticle intensity. Image files are open with the function loadtiff.m which is found on the MathWorks File Exchange at the link: https://www.mathworks.com/matlabcentral/fileexchange/35684-multipage-tiff-stack
 
 Lymphatic vessels were segmented using Ilasik (https://www.ilastik.org/ or https://github.com/ilastik).
 
