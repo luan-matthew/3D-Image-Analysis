@@ -1,4 +1,4 @@
-# 3D-Image-Analysis
+# 3D Image Analysis on Nanoparticles and Tumour Lymphatics
 MATLAB scripts for quantifying nanoparticle intensities with respect to the tumour lymphatics in 3D images.
 
 The MATLAB script np_dist_average.m quantifies 1. the average distance from lymphatic vessels to nanoparticles, and 2. the nanoparticle intensity at the lymphatic vessel wall. 
